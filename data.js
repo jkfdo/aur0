@@ -4,12 +4,12 @@ const data = [
         artist: `The Ambientalist`,
         subArtist: ``,
         genre: `Chillstep Chillout Ambient Electronic`,
-        mood: `Emotional Sorrow Sad Alone Dreamy`,
+        mood: `Emotional Sorrow Sad Alone Dreamy Afternoon NewWorld Solitude Urban`,
         
         channel: `AurVen`,
         publishDate: `6 May 2025`,
         
-        pbLnk: `https://youtu.be/p06TdtcBtbc`,
+        pbLnk: `https://youtu.be/DvBba16NFAA`,
         arLnk: `https://youtu.be/p06TdtcBtbc`,
         bolume: `AurNov`,
     
