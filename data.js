@@ -14,8 +14,8 @@ const data = [
         bolume: `AurNov`,
     
         
-        artwork: ``,
-        art: `https://wallpapers.com/images/high/embracing-the-sublime-tranquility-a-glimpse-of-the-sunset-aesthetic-pii0lxq5jxqacmi5.webp`,
+        artwork: `https://www.deviantart.com/brokenteapotstudios/art/Shooting-Stars-1166390070`,
+        art: `https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/87adf66c-7944-4128-8b9b-d892d63090b4/djafsc6-e5922f83-8f87-4375-b9e5-a4ac22e1df2b.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg3YWRmNjZjLTc5NDQtNDEyOC04YjliLWQ4OTJkNjMwOTBiNFwvZGphZnNjNi1lNTkyMmY4My04Zjg3LTQzNzUtYjllNS1hNGFjMjJlMWRmMmIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.AwTRt88YfbZ-iDdiTSq5GHS-BO5LFKkekxj2ymEI0fQ`,
       },
       {
       name: ``,
